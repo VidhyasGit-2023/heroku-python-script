@@ -1,1 +1,1 @@
-worker: python script.py
+web: gunicorn gettingstarted.wsgi
